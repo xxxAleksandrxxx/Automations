@@ -53,5 +53,3 @@ For the best experience with Assistive Touch, I would recommend downloading <a h
 I hope you will enjoy using this shortcut!
 
 Download link: https://routinehub.co/shortcut/16482/
-
-p.s.: If you found this shortcut useful and would like to support me, you can do so here: **<a href="https://www.buymeacoffee.com/usern34582">buymeacoffee.com</a>** 😊
