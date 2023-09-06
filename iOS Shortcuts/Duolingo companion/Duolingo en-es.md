@@ -1,7 +1,7 @@
 ...  | 1 | 2 | ...
 :--:| :--: | :--: | :--:
 **Safari** | ![Imgur](https://i.imgur.com/ZuQ6Y6U.png) | ![Imgur](https://i.imgur.com/pQa6NQ2.png) | 
-... | 1 | 2 | 3
+... | **1** | **2** | **3**
 **DuoLingo** | ![Imgur](https://i.imgur.com/o3T5uos.png)  | ![Imgur](https://i.imgur.com/c7AtT0T.png) | ![Imgur](https://i.imgur.com/e0UIxrC.png)
 
 
