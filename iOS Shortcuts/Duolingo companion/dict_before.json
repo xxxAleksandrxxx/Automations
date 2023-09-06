@@ -2,7 +2,7 @@
     "Select the correct meaning " : "Select the correct meaning ",
     "Complete the sentence oal " : "Complete the sentence oal ",
     "Complete the sentence " : "Complete the sentence ",
-    "Complete the word" : "Complete the word",
+    "Complete the word " : "Complete the word ",
     "Complete the translation " : "Complete the translation ",
     "Complete the chat " : "Complete the chat ",
     "Type the missing word " : "Type the missing word ",
@@ -20,11 +20,11 @@
     "Write this in Spanish " : "Write this in Spanish ",
     "Write this in English " : "Write this in English ",
     ".all " : ".all ",
-    "00 )" : "00 \\)",
-    " ))" : " \\)\\)",
-    "(›)" : "\\(›\\)",
-    "(›" : "\\(› ",
-    ") ;" : "\\) ; ",
+    "00 ) " : "00 \\) ",
+    " )) " : " \\)\\) ",
+    "(›) " : "\\(›\\) ",
+    "(› " : "\\(› ",
+    ") ; " : "\\) ; ",
     ")  : " : "\\)  :  ",
     ") " : "\\) ",
     "2 › " : "2 › ",
@@ -46,5 +46,5 @@
     "Nicely done. Meaning : " : "Nicely done. Meaning : ",
     "Correct Answer :  " : "Correct Answer :  ",
     "Duolingo • " : "Duolingo • ",
-    "Pay attention to the accents." : "Pay attention to the accents."
+    "Pay attention to the accents. " : "Pay attention to the accents. "
 }
