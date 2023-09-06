@@ -56,44 +56,44 @@ Download link: https://routinehub.co/shortcut/16482/
 
 
 ### Script
-![Imgur](https://i.imgur.com/ypbC1gb.jpg)
-![Imgur](https://i.imgur.com/5SLblGa.jpg)
-![Imgur](https://i.imgur.com/FBLz2a5.jpg)
-![Imgur](https://i.imgur.com/FxQCCFV.jpg)
-![Imgur](https://i.imgur.com/vKLx4cI.jpg)
-![Imgur](https://i.imgur.com/Ea4SWRO.jpg)
-![Imgur](https://i.imgur.com/a5ky9DZ.jpg)
-![Imgur](https://i.imgur.com/Rdcdppa.jpg)
-![Imgur](https://i.imgur.com/hFDBn5W.jpg)
-![Imgur](https://i.imgur.com/VjlvhVl.jpg)
-![Imgur](https://i.imgur.com/Akl22am.jpg)
-![Imgur](https://i.imgur.com/lgILsnW.jpg)
-![Imgur](https://i.imgur.com/dacmGVl.jpg)
-![Imgur](https://i.imgur.com/5qHTCMg.jpg)
-![Imgur](https://i.imgur.com/6jL5qtu.jpg)
-![Imgur](https://i.imgur.com/vi0srYr.jpg)
-![Imgur](https://i.imgur.com/b8iVOlp.jpg)
-![Imgur](https://i.imgur.com/vQNflHY.jpg)
-![Imgur](https://i.imgur.com/6F0j8Xn.jpg)
-![Imgur](https://i.imgur.com/jdDzf0x.jpg)
-![Imgur](https://i.imgur.com/0dwRKRL.jpg)
-![Imgur](https://i.imgur.com/HmTxEdm.jpg)
-![Imgur](https://i.imgur.com/OetChbP.jpg)
-![Imgur](https://i.imgur.com/EpP0G3g.jpg)
-![Imgur](https://i.imgur.com/TGADbFP.jpg)
-![Imgur](https://i.imgur.com/Mqdc2C5.jpg)
-![Imgur](https://i.imgur.com/dwARyod.jpg)
-![Imgur](https://i.imgur.com/Gaa2QJw.jpg)
-![Imgur](https://i.imgur.com/Qh8JZDx.jpg)
-![Imgur](https://i.imgur.com/lyvJ4Dz.jpg)
-![Imgur](https://i.imgur.com/MLILiHc.jpg)
-![Imgur](https://i.imgur.com/j8LPHs0.jpg)
-![Imgur](https://i.imgur.com/LkFukJJ.jpg)
-![Imgur](https://i.imgur.com/GHqNUwI.jpg)
-![Imgur](https://i.imgur.com/CYEnZrw.jpg)
-![Imgur](https://i.imgur.com/G8jOaKn.jpg)
-![Imgur](https://i.imgur.com/uPxvQjm.jpg)
-![Imgur](https://i.imgur.com/C91fu5m.jpg)
-![Imgur](https://i.imgur.com/C73fw2N.jpg)
-![Imgur](https://i.imgur.com/LC7jl6K.jpg)
-![Imgur](https://i.imgur.com/NytssfX.jpg)
+<img src="https://i.imgur.com/ypbC1gb.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/5SLblGa.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/FBLz2a5.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/FxQCCFV.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/vKLx4cI.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/Ea4SWRO.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/a5ky9DZ.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/Rdcdppa.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/hFDBn5W.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/VjlvhVl.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/Akl22am.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/lgILsnW.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/dacmGVl.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/5qHTCMg.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/6jL5qtu.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/vi0srYr.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/b8iVOlp.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/vQNflHY.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/6F0j8Xn.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/jdDzf0x.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/0dwRKRL.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/HmTxEdm.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/OetChbP.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/EpP0G3g.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/TGADbFP.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/Mqdc2C5.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/dwARyod.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/Gaa2QJw.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/Qh8JZDx.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/lyvJ4Dz.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/MLILiHc.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/j8LPHs0.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/LkFukJJ.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/GHqNUwI.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/CYEnZrw.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/G8jOaKn.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/uPxvQjm.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/C91fu5m.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/C73fw2N.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/LC7jl6K.jpg" alt="picture" width="360" height="auto">
+<img src="https://i.imgur.com/NytssfX.jpg" alt="picture" width="360" height="auto">
