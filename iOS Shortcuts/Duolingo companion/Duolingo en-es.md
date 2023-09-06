@@ -56,6 +56,7 @@ Download link: https://routinehub.co/shortcut/16482/
 
 
 ### Script
+<div style="font-size:0;">
 <img src="https://i.imgur.com/ypbC1gb.jpg" alt="picture" width="360" height="auto">
 <img src="https://i.imgur.com/5SLblGa.jpg" alt="picture" width="360" height="auto">
 <img src="https://i.imgur.com/FBLz2a5.jpg" alt="picture" width="360" height="auto">
@@ -97,50 +98,4 @@ Download link: https://routinehub.co/shortcut/16482/
 <img src="https://i.imgur.com/C73fw2N.jpg" alt="picture" width="360" height="auto">
 <img src="https://i.imgur.com/LC7jl6K.jpg" alt="picture" width="360" height="auto">
 <img src="https://i.imgur.com/NytssfX.jpg" alt="picture" width="360" height="auto">
-
-
-
-# test
-![Imgur](https://i.imgur.com/ypbC1gb.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/5SLblGa.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/FBLz2a5.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/FxQCCFV.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/vKLx4cI.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/Ea4SWRO.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/a5ky9DZ.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/Rdcdppa.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/hFDBn5W.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/VjlvhVl.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/Akl22am.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/lgILsnW.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/dacmGVl.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/5qHTCMg.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/6jL5qtu.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/vi0srYr.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/b8iVOlp.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/vQNflHY.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/6F0j8Xn.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/jdDzf0x.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/0dwRKRL.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/HmTxEdm.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/OetChbP.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/EpP0G3g.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/TGADbFP.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/Mqdc2C5.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/dwARyod.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/Gaa2QJw.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/Qh8JZDx.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/lyvJ4Dz.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/MLILiHc.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/j8LPHs0.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/LkFukJJ.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/GHqNUwI.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/CYEnZrw.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/G8jOaKn.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/uPxvQjm.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/C91fu5m.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/C73fw2N.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/LC7jl6K.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-![Imgur](https://i.imgur.com/NytssfX.jpg){: height="75px" width="300px" style="float:left; padding-right:10px" }
-
-
+</div>
