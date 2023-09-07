@@ -30,4 +30,7 @@ There are three ways how to manage trash words dictionaries:
 
 I tested all three variants, but in the end, I chose the third option primarily due to the buggy iOS Shortcuts app and its simplicity when it comes to sharing the dictionaries.
 
-
+- dict_before.json  
+	It has keys and values in style "Translate this sentence " : "Translate this sentence "
+- dict_after.json  
+	It has keys and values in style " JNEXT" : " JNEXT"
