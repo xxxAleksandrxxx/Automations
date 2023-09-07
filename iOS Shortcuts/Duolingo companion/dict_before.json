@@ -21,6 +21,7 @@
     "Write this in English " : "Write this in English ",
     " a a " : " a a ",
     "8 a " : "8 a ",
+    " [B-Z] " : " [B-Z] ",
     ".all " : ".all ",
     "00 ) " : "00 \\) ",
     " )) " : " \\)\\) ",
