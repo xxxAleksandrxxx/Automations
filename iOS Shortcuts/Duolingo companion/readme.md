@@ -31,6 +31,8 @@ There are three ways how to manage trash words dictionaries:
 I tested all three variants, but in the end, I chose the third option primarily due to the buggy iOS Shortcuts app and its simplicity when it comes to sharing the dictionaries.
 
 - dict_before.json  
-	It has keys and values in style "Translate this sentence " : "Translate this sentence "
+	It has keys and values in style "_Translate this sentence " : "Translate this sentence "  
 - dict_after.json  
-	It has keys and values in style " JNEXT" : " JNEXT"
+	It has keys and values in style "_ JNEXT" : " JNEXT"  
+
+Both dictionaries have "\_" as the first symbol in the key to ensure correct sorting. For example, keys like " F " and "F " remain in the same position after sorting in iOS Shortcuts like if there is no first space in " F. " However, with "_ F " and "\_F ," the first space is counted during sorting which is why both keys end up in different positions.
