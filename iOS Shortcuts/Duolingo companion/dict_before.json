@@ -1,4 +1,7 @@
 {
+    " [B-Z] " : " [B-Z] ",
+    " a a " : " a a ",
+    "8 a " : "8 a ",
     "Select the correct meaning " : "Select the correct meaning ",
     "Complete the sentence oal " : "Complete the sentence oal ",
     "Complete the sentence " : "Complete the sentence ",
@@ -19,9 +22,6 @@
     "Fill in the blank " : "Fill in the blank ",
     "Write this in Spanish " : "Write this in Spanish ",
     "Write this in English " : "Write this in English ",
-    " a a " : " a a ",
-    "8 a " : "8 a ",
-    " F " : " F ",
     ".all " : ".all ",
     "00 ) " : "00 \\) ",
     " )) " : " \\)\\) ",
