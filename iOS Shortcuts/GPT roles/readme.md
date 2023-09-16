@@ -1,3 +1,5 @@
+link to [RoutineHub](https://routinehub.co/shortcut/16337/)
+
 If you want a quick response from ChatGPT by openAI using roles and minimal interface interruptions, this shortcut is likely what you're after.  
 
 I built it for personal use to simplify my conversations with chatGPT as Python student and Spanish student and found this useful.
