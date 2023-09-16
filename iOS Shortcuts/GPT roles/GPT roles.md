@@ -12,4 +12,3 @@
 <div style="line-height:0; font-size:0"><img src="https://i.imgur.com/o44QNXR.jpg" alt="picture" width="360" height="auto"></div>
 <div style="line-height:0; font-size:0"><img src="https://i.imgur.com/1uByXrP.jpg" alt="picture" width="360" height="auto"></div>
 <div style="line-height:0; font-size:0"><img src="https://i.imgur.com/0OegyEG.jpg" alt="picture" width="360" height="auto"></div>
-<div style="line-height:0; font-size:0"><img src="https://i.imgur.com/G6sSvsG.jpg" alt="picture" width="360" height="auto"></div>
