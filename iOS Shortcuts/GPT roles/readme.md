@@ -9,6 +9,7 @@ p.s.: if you like the shortcut and want to support me, feel free to **<a href="h
 
 
 ### How it looks like
+
 pic1| pic2 | pic3 |
 - | - | - 
 ![Imgur](https://i.imgur.com/uAvLJWR.png) | ![Imgur](https://i.imgur.com/rOsRtXL.png) | ![Imgur](https://i.imgur.com/PimR0wf.png)
@@ -19,6 +20,7 @@ Once you've copied the shortcut, all you gotta do is:
 - adjust roles to your needs
 
 Home folder | Dictionary with roles | Request to API | File with answer
+
 - | - | - | - 
 ![Imgur](https://i.imgur.com/t2yngqN.png) | ![Imgur](https://i.imgur.com/nTUSZCZ.png) | ![Imgur](https://i.imgur.com/BH4llYE.png) | ![Imgur](https://i.imgur.com/HEruHQi.png)
 
