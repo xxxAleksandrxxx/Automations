@@ -53,5 +53,3 @@ For the best experience with Assistive Touch, I would recommend downloading <a h
 - There are some exercises with sentences lacking punctuation marks at the end. In such cases, you may receive a sentence without proper structure. I haven't found a straightforward solution for this, so you can either skip these exercises or modify the script's logic and share it – that would be greatly appreciated.
 
 I hope you will enjoy using this shortcut!
-
-Download link: https://routinehub.co/shortcut/16482/
