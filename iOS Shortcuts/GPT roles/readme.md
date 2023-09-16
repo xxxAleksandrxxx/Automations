@@ -1,4 +1,4 @@
-link to [RoutineHub](https://routinehub.co/shortcut/16337/)
+Link to [RoutineHub](https://routinehub.co/shortcut/16337/)
 
 If you want a quick response from ChatGPT by openAI using roles and minimal interface interruptions, this shortcut is likely what you're after.  
 
