@@ -1,36 +1,54 @@
-# Description
-Duolingo companion iOS Shortcut designed for assistance during classes. The idea is to extract sentence from screen, translate it and provide possibility to listen both languages.  
-To do so we need:
-- take screenshot
-- recognise text
-- clean text from "trash"
+...  | 1 | 2 | ...
+:--:| :--: | :--: | :--:
+**Safari** | ![Imgur](https://i.imgur.com/ZuQ6Y6U.png) | ![Imgur](https://i.imgur.com/pQa6NQ2.png) | 
+... | **1** | **2** | **3**
+**DuoLingo** | ![Imgur](https://i.imgur.com/o3T5uos.png)  | ![Imgur](https://i.imgur.com/c7AtT0T.png) | ![Imgur](https://i.imgur.com/e0UIxrC.png)
 
-First two steps are easy but the last one is tricky in iOS Shortcuts. I played around the logic and came across that the best way is to use ReGex in two steps:  
-1. delete trash before the text  
-2. delete trash after the text  
 
-For both cases I found useful to use dictionary with words for ReGex. Keys are for searching in text and if the key exists in text ReGex Match applied for text to clean it.  
-There are three ways how to manage trash words dictionaries:  
-1. keep it inside Shortcut
-	\+ all in one place  
-	\+ simple for user  
-	\+ it's possible to arrange key-value sequence  
-	\- iOS Shortcuts application freezes when it has many boxes and, what is weird when dictionary has more then 30 items so it's really painful to add one more pair of key and value  
-2. keep in locally on iPhone in text file using json structure  
-	\+ no freezes during updating dictionary  
-	\- tricky to share the dictionary with others  
-	\- it's not possible to arrange key-value sequence  
-	\- potentially could works slower because of we need to read the file and then sort keys  
-3. keep it on the cloud (GitHub)  
-	\+ no freezes during updating dictionary  
-	\+ easy to share with others  
-	\- the speed depends on internet connection  
-	\- it's not possible to arrange key-value sequence  
-	\- potentially could works slower because we need to get it from internet and then sort keys 
+I've been studying Spanish using English as my primary language (which it technically isn't 😁) for over a year, and I've grown to really enjoy DuoLingo. There were a couple of features I always wished for:
 
-I tested all three variants, but in the end, I chose the third option primarily due to the buggy iOS Shortcuts app and its simplicity when it comes to sharing the dictionaries.
+- Pronunciation of sentences for each exercise.
+- Listening to sentences in both Spanish and English.
+- The ability to switch from Mexican Spanish to Spanish Spanish pronunciation.
 
-- dict_before.json  
-	It has keys and values in style "Translate this sentence " : "Translate this sentence "
-- dict_after.json  
-	It has keys and values in style " JNEXT" : " JNEXT"
+So, I've created an iOS Shortcut companion to expand DuoLingo's functionality!
+
+
+### How it works
+
+During your Spanish class, you simply need to activate the shortcut (there are two different ways to do it) and select the language in which you'd like the sentence to be pronounced.
+
+Example with Assistive Touch | Example with Back Tap
+-- | --
+[video](https://i.imgur.com/JuJgssH.mp4) | [video](https://i.imgur.com/9RWQMjA.mp4)
+
+
+### Setup steps
+
+1) Go to: Settings > Accessibility > Spoken Content > Voices  
+2) Download voices you want to use  
+3) Download "Duolingo en-es" shortcut and proceed setup steps  
+4) Setup the way you want to run this shortcut - Assistive Touch or Back Tap  
+
+**Setup Assistive Touch** | **Setup Back Tap**
+-- | --
+For the best experience with Assistive Touch, I would recommend downloading <a href='https://routinehub.co/shortcut/16439/'>this shortcut</a> first, as it will take you directly to the Assistive Touch settings. | With Back Tap, you can select either a double or triple tap, and when you need to run the shortcut, simply double or triple tap the back of your iPhone.   
+[video](https://i.imgur.com/RaozjKX.mp4) | [video](https://i.imgur.com/pHmrPwO.mp4)
+
+5) Start DuoLingo class and enjoy!   
+
+### Notes
+
+- Personally, I prefer Assistive Touch, as Back Tap may occasionally trigger the shortcut when it's not needed at all.
+
+- Occasionally, the iOS recognition system may make errors and miss some letters. In such cases, you can try running the shortcut once or twice more, or simply move on.
+
+- Certain exercises may contain more than one sentence. In such instances, you'll be prompted to choose the correct number of sentences.
+
+- If you activate the shortcut after you've answered and pressed "CHECK," the script will take the answer provided by DuoLingo and translate it. In certain instances, you might receive slightly different sentences which is kind of cool to me.
+
+- There are some exercises with sentences lacking punctuation marks at the end. In such cases, you may receive a sentence without proper structure. I haven't found a straightforward solution for this, so you can either skip these exercises or modify the script's logic and share it – that would be greatly appreciated.
+
+I hope you will enjoy using this shortcut!
+
+Download link: https://routinehub.co/shortcut/16482/
