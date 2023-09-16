@@ -5,9 +5,6 @@ I built it for personal use to simplify my conversations with chatGPT as Python 
 Inside shortcut you will find detailed comments within the code blocks, enabling you to grasp its functionality and customise it to align with your vision. 
 
 
-p.s.: if you like the shortcut and want to support me, feel free to **<a href="https://www.buymeacoffee.com/usern34582">buy me a coffee</a>** 😊
-
-
 ### How it looks like
 
 pic1 | pic2 | pic3 |
