@@ -37,6 +37,9 @@ def process_text(input_text):
     match = re.search(pattern, t)
     if match:
         t = match.group(1)
+
+    if '一===一' in t:
+        t = t.replace('一===一 ', '')
     
     return t
 
