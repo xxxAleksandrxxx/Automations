@@ -39,10 +39,12 @@ def process_text(input_text):
         t = match.group(1)
 
     # if after cleaning the text starts with 5G or 4G, clean it more
-    pattern = r'^(5G |4G )(.+)'
-    match = re.findall(pattern, t)
-    if match:
-	    t = match[0][1]
+    #pattern = r'^(5G |4G )(.+)'
+    #match = re.findall(pattern, t)
+    #if match:
+    #    t = match[0][1]
+    if t.startswith('5G '): t = t[3:]
+    if t.startswith('4G '): t = t[3:]
 
 
     if '一===一' in t:
