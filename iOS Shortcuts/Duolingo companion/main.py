@@ -48,6 +48,8 @@ def process_text(input_text):
     if t.startswith('4G'):
         t = t[3:]
 
+    # There could be two types strange symbols: 一===一 and —===—
+    # Check for 一===一
     print('Before 一===一 check')
     print(t)
     if '一===一' in t:
@@ -57,6 +59,15 @@ def process_text(input_text):
         print("一===一 is not in text")
     print("After 一===一 check")
     print(t)
+    # Check for —===—
+    if '—===—' in t:
+        t = t.replace('—===— ', '')
+        print("—===— is in text")
+    else:
+        print("—===— is not in text")
+    print("After —===— check")
+    print(t)
+
     
     return t
 
