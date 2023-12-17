@@ -54,23 +54,23 @@ def process_text(input_text):
 
     # There could be two types strange symbols: 一===一 and —===—
     # Check for 一===一
-    print('Before 一===一 check')
-    print(t)
+    # print('Before 一===一 check')
+    # print(t)
     if '一===一' in t:
         t = t.replace('一===一 ', '')
-        print("一===一 is in text")
-    else:
-        print("一===一 is not in text")
-    print("After 一===一 check")
-    print(t)
+        # print("一===一 is in text")
+    # else:
+    #     print("一===一 is not in text")
+    # print("After 一===一 check")
+    # print(t)
     # Check for —===—
     if '—===—' in t:
         t = t.replace('—===— ', '')
-        print("—===— is in text")
-    else:
-        print("—===— is not in text")
-    print("After —===— check")
-    print(t)
+    #     print("—===— is in text")
+    # else:
+    #     print("—===— is not in text")
+    # print("After —===— check")
+    # print(t)
 
     
     return t
