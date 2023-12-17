@@ -28,6 +28,10 @@ def process_text(input_text):
             t = re.search(pattern, t).group(1)
 
     # clean text from everything after •
+    if "•" in t:
+        print('"•" in t')
+    else:
+        print('"•" NOT in t:')
     while "•" in t:
         pattern = r'(.+[.?!]) {1,3}[•]'
         t = re.search(pattern, t).group(1)
