@@ -43,19 +43,27 @@ def process_text(input_text):
     #match = re.findall(pattern, t)
     #if match:
     #    t = match[0][1]
-    print("Here is text before check for startswith 5G or 4G")
+    print("Before 5G-4G check")
     print(t)
-    if t.startswith('5G '): t = t[3:]
-    if t.startswith('4G '): t = t[3:]
-    print("Text after check for 5G or 4G")
+    if t.startswith('5G'): 
+        print("starts with 5G")
+        t = t[3:]
+    else:
+        print("Doesn't start with 5G") 
+    if t.startswith('4G'):
+        print("starts with 4G")
+        t = t[3:]
+    else:
+        print("Doesn't start with 4G")
+    print("After 5G-4G check")
     print(t)
     print("\n\n")
 
-    print('This is what we have before check for 一===一')
+    print('Before 一===一 check')
     print(t)
     if '一===一' in t:
         t = t.replace('一===一 ', '')
-    print("It's after the check for 一===一")
+    print("After 一===一 check")
     print(t)
     
     return t
