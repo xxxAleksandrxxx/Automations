@@ -38,6 +38,12 @@ def process_text(input_text):
     if match:
         t = match.group(1)
 
+    # if after cleaning the text starts with 5G or 4G, clean it more
+    pattern = r'5G |4G(.+)'
+    match = re.search(pattern, t)
+    if match:
+        t = match.group(1)
+
     if '一===一' in t:
         t = t.replace('一===一 ', '')
     
