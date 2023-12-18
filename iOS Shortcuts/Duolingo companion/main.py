@@ -52,6 +52,17 @@ def process_text(input_text):
     if t.startswith('4G'):
         t = t[3:]
 
+    if t.startswith('5 '):
+        t = t[2:]
+    if t.startswith('4 '):
+        t = t[2:]
+    if t.startswith('3'):
+        t = t[2:]
+    if t.startswith('2'):
+        t = t[2:]
+    if t.startswith('1'):
+        t = t[2:]
+
     # There could be two types strange symbols: 一===一 and —===—
     # Check for 一===一
     # print('Before 一===一 check')
