@@ -49,18 +49,17 @@ def process_text(input_text):
     #    t = match[0][1]
     if t.startswith('5G'): 
         t = t[3:]
-    if t.startswith('4G'):
+    elif t.startswith('4G'):
         t = t[3:]
-
-    if t.startswith('5 '):
+    elif t.startswith('5 '):
         t = t[2:]
-    if t.startswith('4 '):
+    elif t.startswith('4 '):
         t = t[2:]
-    if t.startswith('3'):
+    elif t.startswith('3 '):
         t = t[2:]
-    if t.startswith('2'):
+    elif t.startswith('2 '):
         t = t[2:]
-    if t.startswith('1'):
+    elif t.startswith('1 '):
         t = t[2:]
 
     # There could be two types strange symbols: 一===一 and —===—
