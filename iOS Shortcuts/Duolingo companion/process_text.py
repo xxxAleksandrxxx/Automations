@@ -26,7 +26,10 @@ def clean_text(input_text):
     #     print('"•" NOT in t:')
     while "•" in t:
         pattern = r'(.+[.?!]) {1,3}[•]'
-        t = re.search(pattern, t).group(1)
+        # t = re.search(pattern, t).group(1)
+        match = re.search(pattern, t)
+        if match:
+            t = match.group(1)
 
     # if after .?! symbols we have small letter - it means that it's trash; clean it
     pattern = r'(.+[.?!]) {1,3}[a-z]'
