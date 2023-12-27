@@ -26,8 +26,11 @@ def api_2():
     TEXT = "Hello World!"
     VOICE = "en-GB-SoniaNeural"
     OUTPUT_FILE = "test.mp3"
-    tts.run(TEXT, VOICE, OUTPUT_FILE)
+    # tts.run(TEXT, VOICE, OUTPUT_FILE)
     # await tts.run(TEXT, VOICE, OUTPUT_FILE)  # 'await' outside async function
+    asyncio.run(tts.run(TEXT, VOICE, OUTPUT_FILE))
+    return send_file(OUTPUT_FILE, as_attachment=True)
+
 
 
 # run the web app
