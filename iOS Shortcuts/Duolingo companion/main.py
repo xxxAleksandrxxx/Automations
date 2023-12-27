@@ -18,7 +18,7 @@ def api():
     return jsonify({'result' : result})
 
 @app.route('/tts', methods=['POST'])
-def api():
+def api_2():
     # data = request.json
     # if 'text' not in data:
     #     return jsonify({'error' : 'Missing "text" field'}), 400
