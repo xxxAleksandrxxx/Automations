@@ -23,9 +23,11 @@ def api_2():
     # if 'text' not in data:
     #     return jsonify({'error' : 'Missing "text" field'}), 400
     # file_name = request.form['file_name']
-    TEXT = "Hello World!"
+    # TEXT = "Hello World!"
+    TEXT = request.form['text']
     VOICE = "en-GB-SoniaNeural"
-    OUTPUT_FILE = "test.mp3"
+    # OUTPUT_FILE = "test.mp3"
+    OUTPUT_FILE = request.form['file_name']
     # tts.run(TEXT, VOICE, OUTPUT_FILE)
     # await tts.run(TEXT, VOICE, OUTPUT_FILE)  # 'await' outside async function
     asyncio.run(tts.run(TEXT, VOICE, OUTPUT_FILE))
