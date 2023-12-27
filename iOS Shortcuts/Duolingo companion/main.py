@@ -7,7 +7,7 @@ import process_text
 app = Flask(__name__)
 
 # apply decorator 
-@app.route('/', methods=['POST'])
+@app.route('/clear', methods=['POST'])
 def api():
     data = request.json
     if 'text' not in data:
