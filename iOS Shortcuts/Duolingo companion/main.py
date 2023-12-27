@@ -17,7 +17,7 @@ def api():
     result = process_text.clean_text(input_text)
     return jsonify({'result' : result})
 
-@app.route('/tts', method=['POST'])
+@app.route('/tts', methods=['POST'])
 def api():
     # data = request.json
     # if 'text' not in data:
