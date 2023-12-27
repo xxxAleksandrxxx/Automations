@@ -20,6 +20,8 @@ def api():
 @app.route('/tts', methods=['POST'])
 def api_2():
     # data = request.json
+    print('request.json:', request.json)
+    print('request.form:', request.form)
     # if 'text' not in data:
     #     return jsonify({'error' : 'Missing "text" field'}), 400
     # file_name = request.form['file_name']
