@@ -26,7 +26,8 @@ def api():
     TEXT = "Hello World!"
     VOICE = "en-GB-SoniaNeural"
     OUTPUT_FILE = "test.mp3"
-    await tts.run(TEXT, VOICE, OUTPUT_FILE)
+    tts.run(TEXT, VOICE, OUTPUT_FILE)
+    # await tts.run(TEXT, VOICE, OUTPUT_FILE)  # 'await' outside async function
 
 
 # run the web app
