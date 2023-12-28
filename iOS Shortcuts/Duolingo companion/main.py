@@ -41,9 +41,9 @@ async def text_to_sound():
     # OUTPUT_FILE_1 = data['file_name'][0]
     # asyncio.run(tts.run(TEXT_1, VOICE_1, OUTPUT_FILE_1))
 
-    TEXTS = data['text'].split()
-    VOICES = data['voice'].split()
-    FILES = data['file_name'].split()
+    TEXTS = data['text'].split('\n')
+    VOICES = data['voice'].split('\n')
+    FILES = data['file_name'].split('\n')
 
     print(TEXTS)
     print(VOICES)
