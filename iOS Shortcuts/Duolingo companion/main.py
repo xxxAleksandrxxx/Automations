@@ -36,7 +36,7 @@ def text_to_sound():
     
     FILE_0 = data['file_name'][0]
     FILE_1 = data['file_name'][1]
-    asyncio.gather(
+    await asyncio.gather(
         tts.run(data['text'][0], data['voice'][0], FILE_0),
         tts.run(data['text'][1], data['voice'][1], FILE_1)
     )
