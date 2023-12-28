@@ -20,9 +20,17 @@ def clear_text():
     return jsonify({'result' : result})
 
 @app.route('/tts', methods=['POST'])
-def text_to_sound():
-    # expecting there were text,  key in json we got from request
+async def text_to_sound():
+    # check the request content type
+    if not request.json:
+        return jsonify({'error': 'Invalid content type. Application/JSON expected.'}), 400
+     
     data = request.json
+
+    # check required fields 
+    if 'text' not in data or 'voice' not in data or 'file_name' not in data:
+        return jsonify({'error': 'Missing required fields: text, voice, file_name'}), 400
+
     print(data)
     # if 'text' not in data:
     #     return jsonify({'error' : 'Missing "text" field'}), 400
