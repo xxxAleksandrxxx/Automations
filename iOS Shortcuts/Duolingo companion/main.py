@@ -31,7 +31,7 @@ async def text_to_sound():
     if 'text' not in data or 'voice' not in data or 'file_name' not in data:
         return jsonify({'error': 'Missing required fields: text, voice, file_name'}), 400
 
-    print(data)
+    print("data:", data)
     # if 'text' not in data:
     #     return jsonify({'error' : 'Missing "text" field'}), 400
     # file_name = request.form['file_name']
@@ -41,13 +41,13 @@ async def text_to_sound():
     # OUTPUT_FILE_1 = data['file_name'][0]
     # asyncio.run(tts.run(TEXT_1, VOICE_1, OUTPUT_FILE_1))
 
-    TEXTS = data['text'].split('\n')
-    VOICES = data['voice'].split('\n')
-    FILES = data['file_name'].split('\n')
+    TEXTS = data['text'].split(':::')
+    VOICES = data['voice'].split(':::')
+    FILES = data['file_name'].split(':::')
 
-    print(TEXTS)
-    print(VOICES)
-    print(FILES)
+    print("TEXTS: ", TEXTS)
+    print("VOICES:", VOICES)
+    print("FILES: ", FILES)
     
     await asyncio.gather(
         tts.run(TEXTS[0], VOICES[0], FILES[0]),
