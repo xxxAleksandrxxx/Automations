@@ -55,8 +55,8 @@ async def text_to_sound():
     )
     OUTPUT_FILE = 'audios.zip'
     with ZipFile(OUTPUT_FILE, 'w') as z:
-        z.write(FILE_0)
-        z.write(FILE_1)
+        z.write(FILES[0])
+        z.write(FILES[1])
     
     return send_file(OUTPUT_FILE, as_attachment=True)
 
