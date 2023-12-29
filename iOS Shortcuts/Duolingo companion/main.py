@@ -44,7 +44,7 @@ async def text_to_sound():
     TEXTS = data['text'].split(':::')
     VOICES = data['voice'].split(':::')
     FILES = data['file_name'].split(':::')
-    if 'date' in data and data['rate']:
+    if 'rate' in data and data['rate']:
         RATE = data['rate']
     else:
         RATE = "+0%"
