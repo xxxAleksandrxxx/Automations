@@ -53,7 +53,7 @@ async def text_to_sound():
     tasks = [tts.run(t, v, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
     print('tasks:', tasks)
     
-    await asyncio.gather(tasks)
+    await asyncio.gather(*tasks)
     
     OUTPUT_FILE = 'audios.zip'
     with ZipFile(OUTPUT_FILE, 'w') as z:
