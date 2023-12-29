@@ -50,9 +50,7 @@ async def text_to_sound():
     print("FILES: ", FILES)
     
     
-    tasks = []
-    for t, v, f in zip(TEXTS, VOICES, FILES):
-        tasks.append(tts.run(t, v, f))
+    tasks = [tts.run(t, v, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
     print('tasks:', tasks)
     
     await asyncio.gather(tasks)
