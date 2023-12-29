@@ -44,13 +44,18 @@ async def text_to_sound():
     TEXTS = data['text'].split(':::')
     VOICES = data['voice'].split(':::')
     FILES = data['file_name'].split(':::')
+    if 'date' in data and data['rate']:
+        RATE = data['rate']
+    else:
+        RATE = "+0%"
 
     print("TEXTS: ", TEXTS)
     print("VOICES:", VOICES)
     print("FILES: ", FILES)
+    print("RATE:  ", RATE)
     
     
-    tasks = [tts.run(t, v, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
+    tasks = [tts.run(t, v, RATE, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
     print('tasks:', tasks)
     
     await asyncio.gather(*tasks)
