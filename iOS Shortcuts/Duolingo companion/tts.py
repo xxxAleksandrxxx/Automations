@@ -5,6 +5,7 @@ from io import BytesIO
 
 async def run(text, voice, rate, file_name) -> None:
     communicate = edge_tts.Communicate(text, voice, rate=rate)
+    print(type(communicate))
     # Trim received audio from start and from end
     try:
         audio_stream = BytesIO(communicate)
