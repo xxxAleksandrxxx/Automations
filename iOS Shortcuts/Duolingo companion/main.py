@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify, send_file
 import requests
 import process_text
-import tts
+#import tts
+import tts2
 import asyncio
 from zipfile import ZipFile
 
@@ -55,7 +56,8 @@ async def text_to_sound():
     print("RATE:  ", RATE)
     
     
-    tasks = [tts.run(t, v, RATE, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
+    # tasks = [tts.run(t, v, RATE, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
+    tasks = [tts2.run(t, v, RATE, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
     print('tasks:', tasks)
     
     await asyncio.gather(*tasks)
