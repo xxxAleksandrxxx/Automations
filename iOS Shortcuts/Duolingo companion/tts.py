@@ -20,7 +20,7 @@ async def async_trim_mp3(file_input, time_start_ms, time_end_ms):
     def trim_and_save():
         audio = AudioSegment.from_file(file_input, format="mp3")
         audio_trimmed = audio[time_start_ms:-time_end_ms]  # Fix slicing here
-        audio_trimmed.export(file_input[:-4] + "_trimmed" + ".mp3", format="mp3")  # Overwrite the original file
+        audio_trimmed.export(file_input, format="mp3")  # Overwrite the original file
 
     # Run the trimming and saving operation in a separate thread
     await loop.run_in_executor(executor, trim_and_save)
