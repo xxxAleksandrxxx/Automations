@@ -4,6 +4,11 @@
 3. open audio file 
 4. trim audio
 5. save audio to file
+####
+09.01.2024
+Finally testses showed that it works too slow on Render.com 
+so this file is not used in the project
+and I didn't find how to retrieve audio itself from edge-tts.Communicate class.
 '''
 
 import asyncio
