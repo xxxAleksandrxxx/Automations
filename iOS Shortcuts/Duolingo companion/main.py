@@ -49,14 +49,18 @@ async def text_to_sound():
         RATE = data['rate']
     else:
         RATE = "+0%"
+    if 'pitch' in data and data['pitch']:
+        PITCH = data['pitch']
+    else:
+        PITCH = "+0Hz"
 
     print("TEXTS: ", TEXTS)
     print("VOICES:", VOICES)
     print("FILES: ", FILES)
     print("RATE:  ", RATE)
+    print("PITCH: ", PITCH)
     
-    
-    tasks = [tts.run(t, v, RATE, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
+    tasks = [tts.run(t, v, RATE, PITCH, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
     #tasks = [tts2.run(t, v, RATE, f) for t, v, f in zip(TEXTS, VOICES, FILES)]
     print('tasks:', tasks)
     
