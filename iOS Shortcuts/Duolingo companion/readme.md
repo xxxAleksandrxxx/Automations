@@ -1,4 +1,8 @@
-### Link to [RoutineHub](https://routinehub.co/shortcut/16482/)
+### DEV branch addition
+It's an experimental branch that includes an extra feature: building a Flask app on a Gunicorn server with a REST API. From an Apple Shortcut (not shared yet), we send a request to the server with text extracted from a screenshot. The server cleans the text and sends it back to Apple Shortcuts, where the language is recognized and translated (to Spanish or English in my case). Both the original cleaned text and the translation are then sent back to the server, where another Python script concurrently converts the text to speech and sends both audio files back to the Apple Shortcut. Finally, on the iPhone, in the Apple Shortcut, we have the original text, the translation, and both audio files, allowing us to choose and pronounce any of them.
+
+
+### Link to [RoutineHub (it's original one that works locally on iPhone)](https://routinehub.co/shortcut/16482/)
 
 
 ...  | 1 | 2 | ...
