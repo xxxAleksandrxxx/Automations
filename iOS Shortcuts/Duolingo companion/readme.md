@@ -8,7 +8,7 @@
 **DuoLingo** | ![Imgur](https://i.imgur.com/o3T5uos.png)  | ![Imgur](https://i.imgur.com/c7AtT0T.png) | ![Imgur](https://i.imgur.com/e0UIxrC.png)
 
 
-I've been studying Spanish using English as my primary language (which it technically isn't 😁) for over a year, and I've grown to really enjoy DuoLingo. There were a couple of features I always wished for:
+I've been studying Spanish using English as my primary language (which technically isn't 😁) for over a year, and I've really enjoy DuoLingo. But there are couple of features I always wished to have:
 
 - Pronunciation of sentences for each exercise.
 - Listening to sentences in both Spanish and English.
@@ -46,10 +46,10 @@ For the best experience with Assistive Touch, I would recommend downloading <a h
 
 - Occasionally, the iOS recognition system may make errors and miss some letters. In such cases, you can try running the shortcut once or twice more, or simply move on.
 
-- Certain exercises may contain more than one sentence. In such instances, you'll be prompted to choose the correct number of sentences.
+- Certain exercises may contain more than one sentence. In such cases you'll be prompted to choose the correct number of sentences (3 max).
 
-- If you activate the shortcut after you've answered and pressed "CHECK," the script will take the answer provided by DuoLingo and translate it. In certain instances, you might receive slightly different sentences which is kind of cool to me.
+- If you activate the shortcut after you've answered and pressed "CHECK," the script will take the answer provided by DuoLingo and translate it. In certain instances, you might receive slightly different sentences (which is kind of cool feature to me).
 
-- There are some exercises with sentences lacking punctuation marks at the end. In such cases, you may receive a sentence without proper structure. I haven't found a straightforward solution for this, so you can either skip these exercises or modify the script's logic and share it – that would be greatly appreciated.
+- There are some exercises with sentences lacking punctuation marks at the end. In such cases, you may receive a sentence without proper structure. I haven't found a simple and straightforward solution for this, so you can either skip these exercises or modify the script's logic and share it – that would be greatly appreciated.
 
 I hope you will enjoy using this shortcut!
