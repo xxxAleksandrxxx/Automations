@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jira JQL Autocomplete</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div id="container">
+    <textarea
+      id="jql-input"
+      rows="5"
+      placeholder="Enter JQL query…"
+      autocomplete="off"
+      autofocus
+    ></textarea>
+    <ul id="autocomplete-list" class="autocomplete-list"></ul>
+    <div class="buttons">
+      <button id="ok-btn">OK</button>
+      <button id="cancel-btn">Cancel</button>
+    </div>
+  </div>
+
+  <script src="utils.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
